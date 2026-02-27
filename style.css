@@ -131,3 +131,27 @@ footer img {
   border-radius: 0;
   vertical-align: middle;
 }
+
+.place li {
+  font-weight: 700;
+}
+
+.place li::marker {
+  color: black;
+}
+
+.blue {
+  color: #0C51A7;
+}
+
+.purple {
+  color: #591B98;
+}
+
+.pink {
+  color: #E5245E;
+}
+
+.orange {
+  color: #E95E10;
+}
